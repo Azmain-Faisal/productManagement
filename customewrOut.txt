@@ -1,0 +1,2 @@
+Customer Id:ab1235
+Customer Price:453734
